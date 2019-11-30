@@ -1,0 +1,10 @@
+# .net
+bin
+obj
+.DS_Store
+appsettings.json
+*.db
+
+# editor
+.vscode
+.idea
